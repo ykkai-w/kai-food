@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "Take a photo of your food or a nutrition label. Photos are sent to your chosen AI provider when you start recognition.";
+"NSPhotoLibraryUsageDescription" = "Choose food or nutrition label photos for your food diary.";

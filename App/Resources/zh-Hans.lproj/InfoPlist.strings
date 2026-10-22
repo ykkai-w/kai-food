@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "拍摄食物或营养成分表。选择 AI 识别后，照片会发送给你配置的模型服务。";
+"NSPhotoLibraryUsageDescription" = "选择食物或营养成分表照片，建立你自己的饮食记录。";

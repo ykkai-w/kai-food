@@ -1,0 +1,2 @@
+"NSCameraUsageDescription" = "拍攝食物或營養成分表。選擇 AI 辨識後，照片會傳送給你設定的模型服務。";
+"NSPhotoLibraryUsageDescription" = "選擇食物或營養成分表照片，建立你自己的飲食紀錄。";
