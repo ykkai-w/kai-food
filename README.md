@@ -12,9 +12,9 @@ I use the app myself, and the basic features for logging meals, checking nutriti
 
 ## 下载 / Download
 
-[Android 安装包](https://github.com/ykkai-w/KaiiFood/releases/download/v1.0/kaii-food-v1.0-android.apk) · [iOS IPA](https://github.com/ykkai-w/KaiiFood/releases/download/v1.0/kaii-food-v1.0-ios-unsigned.ipa) · [安装方法](docs/INSTALL.md)
+[Android 安装包](https://github.com/ykkai-w/kai-food/releases/download/v1.0/kaii-food-v1.0-android.apk) · [iOS IPA](https://github.com/ykkai-w/kai-food/releases/download/v1.0/kaii-food-v1.0-ios-unsigned.ipa) · [安装方法](docs/INSTALL.md)
 
-[Android APK](https://github.com/ykkai-w/KaiiFood/releases/download/v1.0/kaii-food-v1.0-android.apk) · [iOS IPA](https://github.com/ykkai-w/KaiiFood/releases/download/v1.0/kaii-food-v1.0-ios-unsigned.ipa) · [Installation guide](docs/INSTALL.md)
+[Android APK](https://github.com/ykkai-w/kai-food/releases/download/v1.0/kaii-food-v1.0-android.apk) · [iOS IPA](https://github.com/ykkai-w/kai-food/releases/download/v1.0/kaii-food-v1.0-ios-unsigned.ipa) · [Installation guide](docs/INSTALL.md)
 
 Android 9 及以上可安装 APK。iOS 17 及以上使用 IPA，需要通过个人签名工具或 Xcode 安装。支持 APK 的鸿蒙设备也可使用安卓版，HarmonyOS NEXT 设备需要原生鸿蒙版本。
 

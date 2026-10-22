@@ -1,6 +1,6 @@
 # 安装 kaii 食记
 
-在 [Releases](https://github.com/ykkai-w/KaiiFood/releases) 下载 v1.0 对应的安装包。
+在 [Releases](https://github.com/ykkai-w/kai-food/releases) 下载 v1.0 对应的安装包。
 
 ## Android
 
